@@ -110,7 +110,10 @@ currently   : Learning & tinkering
 <img src="https://raw.githubusercontent.com/iksndwp/iksndwp/main/assets/kyubey.gif" height="50" />
 <br><br>
 
-[![Osu!](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/29973169)
+[![Osu!](https://img.shields.io/badge/osu!-ff66ab?style=flat-square)](https://osu.ppy.sh/users/29973169)
+&nbsp;﹌&nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=iksndwp&style=flat-square&color=blue)
+&nbsp;﹌&nbsp;
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/vvd42wrvy7usqn5b3wa6hehm7?si=f809ea2cd64347a5)
 
 </div>
