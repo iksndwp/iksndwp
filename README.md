@@ -104,12 +104,13 @@ currently   : Learning & tinkering
 <div align="center">
 
 ### Thanks for stopping by.
-
 *Still learning. Still building. Still tinkering.*
 
 <br>
+<img src="https://raw.githubusercontent.com/iksndwp/iksndwp/main/assets/kyubey.gif" height="50" />
+<br><br>
 
 [![Osu!](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/29973169)
-![Profile Views](https://komarev.com/ghpvc/?username=iksndwp\&style=flat-square\&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=iksndwp&style=flat-square&color=blue)
 
 </div>
