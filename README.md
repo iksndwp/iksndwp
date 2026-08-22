@@ -22,7 +22,7 @@ studying    : Undergraduate Informatics Engineering
 building    : Web & Mobile Apps
 exploring   : Software & Linux
 into        : Code · Music · Audio · Games
-currently   : Learning & tinkering
+currently   : Still Exploring
 ```
 
 > *Build things. Break things. Understand why.*
