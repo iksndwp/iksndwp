@@ -1,119 +1,98 @@
 <div align="center">
 
-# Hey, I'm Ikhsan 👋
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=26&pause=1200&color=FF79C6&center=true&vCenter=true&width=760&height=52&lines=Hey%2C+I'm+Ikhsan;Informatics+Student;Web+and+Mobile+Developer;Linux+Enthusiast" alt="Typing SVG" />
 
-**Informatics Student · Developer · Linux Enthusiast**
+<p align="center">
+  <em>I enjoy building things, exploring how they work under the hood,<br>and occasionally breaking them just to understand why.</em>
+</p>
 
-I enjoy building things, exploring how they work under the hood,
-and occasionally breaking them just to understand why.
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square\&logo=instagram\&logoColor=white)](https://instagram.com/iksndwp)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:ikhsandwiputraa@gmail.com)
-
-</div>
-
----
-
-## About Me
-
-```text
-call me     : Isan
-studying    : Undergraduate Informatics Engineering
-building    : Web & Mobile Apps
-exploring   : Software & Linux
-into        : Code · Music · Audio · Games
-currently   : Still Exploring
-```
-
-> *Build things. Break things. Understand why.*
-
----
-
-## What I Work With
-
-### Languages
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square\&logo=dart\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square\&logo=kotlin\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square\&logo=gnu-bash\&logoColor=white)
-
-### Frameworks & Runtime
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square\&logo=ionic\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-
-### Backend & Database
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square\&logo=supabase\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square\&logo=mariadb\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
-![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square\&logo=apachehive\&logoColor=black)
-
-### Tools & DevOps
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square\&logo=gitlab\&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=flat-square\&logo=npm\&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square\&logo=gradle\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square\&logo=eslint\&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square\&logo=prettier\&logoColor=black)
-
-### Data & Design
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square\&logo=matplotlib\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square\&logo=canva\&logoColor=white)
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=iksndwp&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=iksndwp&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+<a href="https://instagram.com/iksndwp"><img height="30" src="https://img.shields.io/badge/instagram-FF79C6?style=flat-square&logo=instagram&logoColor=0D1117" alt="Instagram" /></a>
+<a href="mailto:ikhsandwiputraa@gmail.com"><img height="30" src="https://img.shields.io/badge/email-FF79C6?style=flat-square&logo=gmail&logoColor=0D1117" alt="Email" /></a>
 
 </div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=iksndwp&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for stopping by.
-*Still learning. Still building. Still tinkering.*
 
 <br>
-<img src="https://raw.githubusercontent.com/iksndwp/iksndwp/main/assets/kyubey.gif" height="50" />
-<br><br>
 
-[![Osu!](https://img.shields.io/badge/osu!-ff66ab?style=flat-square)](https://osu.ppy.sh/users/29973169)
+<h3 align="center"><code>~/about</code></h3>
+
+```text
+~ $ whoami
+
+call me     Isan
+studying    Undergraduate Informatics Engineering
+building    Web & Mobile Apps
+exploring   Software & Linux
+into        Code · Music · Audio · Games
+currently   Still Exploring
+```
+
+<p align="center"><em>Build things. Break things. Understand why.</em></p>
+
+<br>
+
+<h3 align="center"><code>~/stack</code></h3>
+
+<table align="center">
+  <tr>
+    <td align="right"><code>languages</code></td>
+    <td><img src="https://skillicons.dev/icons?i=dart,kotlin,ts,py,php,html,bash&perline=10&theme=dark" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td align="right"><code>frameworks</code></td>
+    <td><img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs&perline=10&theme=dark" alt="Frameworks" /></td>
+  </tr>
+  <tr>
+    <td align="right"><code>data</code></td>
+    <td><img src="https://skillicons.dev/icons?i=firebase,supabase,postgres,mysql,sqlite&perline=10&theme=dark" alt="Databases" /></td>
+  </tr>
+  <tr>
+    <td align="right"><code>tooling</code></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,npm,gradle,postman,figma&perline=10&theme=dark" alt="Tooling" /></td>
+  </tr>
+</table>
+
+<p align="center">
+  also: Ionic · MariaDB · Apache Hive · NumPy · Pandas · scikit-learn · Matplotlib<br>
+  Power BI · ESLint · Prettier · Canva
+</p>
+
+<br>
+
+<h3 align="center"><code>~/activity</code></h3>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=iksndwp&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF79C6&icon_color=BD93F9&text_color=C9D1D9&border_color=44475A" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=iksndwp&layout=compact&langs_count=8&bg_color=0D1117&title_color=FF79C6&text_color=C9D1D9&border_color=44475A" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=iksndwp&background=0D1117&stroke=44475A&border=44475A&ring=FF79C6&fire=FF79C6&currStreakNum=F8F8F2&sideNums=F8F8F2&currStreakLabel=FF79C6&sideLabels=BD93F9&dates=6272A4" alt="GitHub streak" />
+</div>
+
+<br>
+
+<h3 align="center"><code>~/contributions</code></h3>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iksndwp/iksndwp/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iksndwp/iksndwp/output/github-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/iksndwp/iksndwp/output/github-snake.svg" />
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/iksndwp/iksndwp/main/assets/kyubey.gif" height="50" alt="kyubey" />
+
+<p align="center"><em>Thanks for stopping by. Still learning, still building, still tinkering.</em></p>
+
+[![osu!](https://img.shields.io/badge/osu!-FF79C6?style=flat-square)](https://osu.ppy.sh/users/29973169)
 &nbsp;﹌&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=iksndwp&style=flat-square&color=blue)
+<img src="https://komarev.com/ghpvc/?username=iksndwp&style=flat-square&color=ff79c6&label=views" alt="Profile views" />
 &nbsp;﹌&nbsp;
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/vvd42wrvy7usqn5b3wa6hehm7?si=f809ea2cd64347a5)
+[![Spotify](https://img.shields.io/badge/spotify-FF79C6?style=flat-square&logo=spotify&logoColor=0D1117)](https://open.spotify.com/user/vvd42wrvy7usqn5b3wa6hehm7?si=f809ea2cd64347a5)
 
 </div>
