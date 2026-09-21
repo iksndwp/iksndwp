@@ -61,8 +61,7 @@ currently   Still Exploring
 <h3 align="center"><code>~/activity</code></h3>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=iksndwp&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF79C6&icon_color=BD93F9&text_color=C9D1D9&border_color=44475A" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=iksndwp&layout=compact&langs_count=8&bg_color=0D1117&title_color=FF79C6&text_color=C9D1D9&border_color=44475A" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=iksndwp&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF79C6&icon_color=BD93F9&text_color=C9D1D9&border_color=44475A" alt="GitHub stats" /> <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=iksndwp&layout=compact&langs_count=8&bg_color=0D1117&title_color=FF79C6&text_color=C9D1D9&border_color=44475A" alt="Top languages" />
 </div>
 
 <div align="center">
