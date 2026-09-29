@@ -86,7 +86,7 @@ currently   Still Exploring
 
 <img src="https://raw.githubusercontent.com/iksndwp/iksndwp/main/assets/kyubey.gif" height="50" alt="kyubey" />
 
-<p align="center"><em>Thanks for stopping by. Still learning, still building, still tinkering.</em></p>
+<p align="center"><em>Thanks for stopping by.</em></p>
 
 [![osu!](https://img.shields.io/badge/osu!-FF79C6?style=flat-square)](https://osu.ppy.sh/users/29973169)
 &nbsp;﹌&nbsp;
