@@ -26,8 +26,6 @@ into        Code · Music · Audio · Games
 currently   Still Exploring
 ```
 
-<p align="center"><em>Build things. Break things. Understand why.</em></p>
-
 <br>
 
 <h3 align="center"><code>~/stack</code></h3>
